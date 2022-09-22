@@ -1,6 +1,6 @@
 # Android
 
-![preview](./src/.github/android.png)
+![preview](./.github/android.png)
 
 Projeto construido com Estudos.
 
