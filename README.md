@@ -1,4 +1,4 @@
-# ANDROID
+# Android
 
 ![preview](./src/.github/android.png)
 
