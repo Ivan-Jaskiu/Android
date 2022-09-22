@@ -4,7 +4,7 @@
 
 Projeto construido com estudos, junto com a pratica!
 
-[Clique aqui para acessar](https:///Ivan-Jaskiu.github.io/ANDROID)
+[Clique aqui para acessar](https:///Ivan-Jaskiu.github.io/android)
 
 # Tecnologia
 - HTML
