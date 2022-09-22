@@ -2,7 +2,7 @@
 
 ![preview](/.github/android.png)
 
-Projeto construido com Estudos.
+Projeto construido com estudos, junto com a pratica!
 
 
 # Tecnologia
