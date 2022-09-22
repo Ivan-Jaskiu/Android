@@ -4,7 +4,7 @@
 
 Projeto construido com Estudos.
 
-[Clique aqui para acessar](https:///Ivan-Jaskiu.github.io/scr/inde.html/Android)
+[Clique aqui para acessar](https:///Ivan-Jaskiu.github.io/Android)
 
 # Tecnologia
 - HTML
